@@ -1,0 +1,8 @@
+Adv
+	address uncertainty/unknowns (Risk evaluation)
+	
+Dis
+	cannot predict deliverables, time, costs
+
+Characteristics
+	requirements partially known
