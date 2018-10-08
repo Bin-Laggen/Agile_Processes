@@ -1,0 +1,11 @@
+Adv
+	partial product delivery is possible
+	feedback potential
+
+Dis
+	expensive
+	high number of skilled personel required
+
+Characteristics
+	requirements must be known
+	natural fragmentation of requirements

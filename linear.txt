@@ -1,0 +1,9 @@
+Adv
+	simple to understand
+
+Dis
+	lack of flexibility
+	no work to show until finished
+
+Characteristics
+	requirements must be known
