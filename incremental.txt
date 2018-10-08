@@ -9,3 +9,4 @@ Dis
 Characteristics
 	requirements must be known
 	natural fragmentation of requirements
+	fixed price contract

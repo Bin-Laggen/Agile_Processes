@@ -7,3 +7,4 @@ Dis
 
 Characteristics
 	requirements must be known
+	fixed price contract

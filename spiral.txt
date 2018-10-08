@@ -16,4 +16,13 @@
 	The project is evaluated to date
 	Customer gives feedback on the work done to date
 	
-	
+Adv
+	Risk monitoring allows for easier management of large projects
+	Customer can see product dev through each stage
+	Changes can be added
+	Strong documentation
+
+Dis
+	Expensive due to risk monitoring which requires resources
+	Management is complex
+	Time management difficult
