@@ -1,0 +1,16 @@
+1. Determine Objetives
+	Requirements gathering
+	Comparing to existing products
+	Customer feedback is important
+
+2. Evaluate Alternatives, Risk Analysis
+	Risks are any conditions that can prevent the project from being completed
+	Determine strategies to overcome any possible risks	
+
+3. Constraints
+	Further development and further testing
+	As the project progresses the requirements become clearer
+	Customer feedback allows for subsequent spirals to add more to the project
+	
+	
+4. Planning Phase
