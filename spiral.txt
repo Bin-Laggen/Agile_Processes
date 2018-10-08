@@ -12,5 +12,8 @@
 	As the project progresses the requirements become clearer
 	Customer feedback allows for subsequent spirals to add more to the project
 	
+4. Planning and Evaluation Phase
+	The project is evaluated to date
+	Customer gives feedback on the work done to date
 	
-4. Planning Phase
+	
