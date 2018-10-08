@@ -6,3 +6,4 @@ Dis
 
 Characteristics
 	requirements partially known
+	time and materials unknown
